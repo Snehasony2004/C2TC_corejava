@@ -1,4 +1,4 @@
-package yashu;
+package sneha;
 
 public class MyClass {
 	 private int section; //nonstatic variable
